@@ -1,72 +1,61 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
-I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
-
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
-Thats All, i will Provide Movies There...🤓🤪
-
-
-⚠️More Help Check Help Button Below
-
-😎 Powered by @MOVIES_ZILAA
-
-©️ Maintained By @GuruBhai11"""
-    HELP_TXT = """
-    🙋🏻‍♂️   Hellooo  {} 🤓
-
-○  Tutorial video is here @sources_cods
-
-○  it's Note Complicated...🤓
-
-○  Search using inline mode
-This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space and search any movie you want...
-
-○ Available Commands
-     
- /start - Check I'm Alive..
- /status - Bot Status
- /info - User info 
- /id - User id
- /stats - Db status  
- /broadcast - Broadcast (owner only)
-
-○ Notice 📙:-
-
-○Dont Spam Me...🤒
-
-😎 Powered by @MOVIES_ZILAA
-
-©️ Maintained By @GuruBhai11"""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/8769ANURAG/EvaMaria  
+    START_TXT = """ʜᴇʟʟᴏᴏ... {} 💖 ɪ'ᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ʙᴏᴛ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴀs ᴀ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+    ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ
+    ᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ, ᴛʜᴀᴛs ᴀʟʟ, ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴛʜᴇʀᴇ...🤓🤪 
+    ⚠️ᴍᴏʀᴇ ʜᴇʟᴘ ᴄʜᴇᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ
+    
+    ©️ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @ʀᴇᴅxᴘʀᴏᴍᴏᴛɪᴏɴʀᴏʙᴏᴛ"""
+    HELP_TXT = """🙋🏻‍♂️   ʜᴇʟʟᴏᴏᴏ  {} 🤓  
+    ○  ɪᴛ's ɴᴏᴛᴇ ᴄᴏᴍᴘʟɪᴄᴀᴛᴇᴅ...🤓
+  
+    ○  sᴇᴀʀᴄʜ ᴜsɪɴɢ ɪɴʟɪɴᴇ ᴍᴏᴅᴇ ᴛʜɪs ᴍᴇᴛʜᴏʀᴅ ᴡᴏʀᴋs ᴏɴ ᴀɴʏ ᴄʜᴀᴛ, ᴊᴜsᴛ ᴛʏᴘᴇ @ᴅᴏᴡɴʟᴏᴀᴅᴇʀ_ᴛɢʙᴏᴛ ᴀɴᴅ ᴛʜᴇɴ ʟᴇᴀᴠᴇ ᴀ sᴘᴀᴄᴇ ᴀɴᴅ sᴇᴀʀᴄʜ ᴀɴʏ ᴍᴏᴠɪᴇ ʏᴏᴜ ᴡᴀɴᴛ...
+    
+    ○ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs        
+    /sᴛᴀʀᴛ - ᴄʜᴇᴄᴋ ɪ'ᴍ ᴀʟɪᴠᴇ..  
+    /sᴛᴀᴛᴜs - ʙᴏᴛ sᴛᴀᴛᴜs  
+    /ɪɴғᴏ - ᴜsᴇʀ ɪɴғᴏ   
+    /ɪᴅ - ᴜsᴇʀ ɪᴅ  
+    /sᴛᴀᴛs - ᴅʙ sᴛᴀᴛᴜs    
+    /ʙʀᴏᴀᴅᴄᴀsᴛ - ʙʀᴏᴀᴅᴄᴀsᴛ (ᴏᴡɴᴇʀ ᴏɴʟʏ)  
+    
+    ○ ɴᴏᴛɪᴄᴇ 📙:-
+    
+    ○ ᴅᴏɴᴛ sᴘᴀᴍ ᴍᴇ...🤒  ©️ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @ʀᴇᴅxᴘʀᴏᴍᴏᴛɪᴏɴʀᴏʙᴏᴛ"""
+    
+    ABOUT_TXT = """✯𝙼𝚈 𝙽𝙰𝙼𝙴:{}
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ʀᴇᴅxᴘʀᴏᴍᴏᴛɪᴏɴʀᴏʙᴏᴛ>ʀҽᴅx</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹 
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱 
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄 
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: ᴠ𝟷.𝟶.𝟷 [ 𝙱𝙴𝚃𝙰 ]"""
+    
+    SOURCE_TXT = """<b>ɴᴏᴛᴇ:</b>
+- @ᴅᴏᴡɴʟᴏᴀᴅᴇʀ_ᴛɢʙᴏᴛ ɪs ᴀ ɴᴏᴛ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
 
 <b>DEVS:</b>
-- <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+- <a href=https://t.me/ʀᴇᴅxᴘʀᴏᴍᴏᴛɪᴏɴʀᴏʙᴏᴛ>ʀҽᴅx</a>"""
+    
+    
+    MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ғɪʟᴛᴇʀs</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- ғɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ᴇᴠᴀᴍᴀʀɪᴀ ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪs ғᴏᴜɴᴅ ᴛʜᴇ ᴍᴇssᴀɢᴇ
 
-<b>NOTE:</b>
-1. eva maria should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+<b>ɴᴏᴛᴇ:</b>
+𝟷. ᴇᴠᴀ ᴍᴀʀɪᴀ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ. 
+𝟸. ᴏɴʟʏ ᴀᴅᴍɪɴs ᴄᴀɴ ᴀᴅᴅ ғɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ. 
+𝟹. ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴs ʜᴀᴠᴇ ᴀ ʟɪᴍɪᴛ ᴏғ 𝟼𝟺 ᴄʜᴀʀᴀᴄᴛᴇʀs.
 
-<b>Commands and Usage:</b>
-• /filter - <code>add a filter in chat</code>
-• /filters - <code>list all the filters of a chat</code>
-• /del - <code>delete a specific filter in chat</code>
-• /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
+<b>ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ:</b>
+• /filter - <code>ᴀᴅᴅ ᴀ ғɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</code>
+• /filters - <code>ʟɪsᴛ ᴀʟʟ ᴛʜᴇ ғɪʟᴛᴇʀs ᴏғ ᴀ ᴄʜᴀᴛ</code>
+• /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ғɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</code>
+• /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ғɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
+    
+    
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- @Downloader_TGBot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
