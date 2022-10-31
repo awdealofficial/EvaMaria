@@ -45,6 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs  ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🤖 ᴊᴏɪɴ ɢʀᴏᴜᴘ', url='https://t.me/+63FskXYIKsBiYjk1'),
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/https://t.me/Hollywood_in_HindiHD')
             ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
@@ -91,6 +92,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🤖 ᴊᴏɪɴ ɢʀᴏᴜᴘ', url='https://t.me/+63FskXYIKsBiYjk1'),
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/https://t.me/Hollywood_in_HindiHD')
             ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
